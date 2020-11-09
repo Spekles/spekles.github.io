@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,MACA,YAAa,CACb,kBAAmB,CACnB,sBAAuB,CACvB,YACA","file":"styles.720b781f.css","sourceRoot":"..\\src","sourcesContent":[".main {\r\ndisplay: flex;\r\nalign-items: center;\r\njustify-content: center;\r\nheight: 100vh;\r\n}"]}
